@@ -1,0 +1,14 @@
+layout_spectrum: 0.9928315
+color:
+  saturation: 0.6135552
+  lightness: 0.9743229
+  brandStrength: 0.8431273
+  rhythmicContrast: 0.9047176
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+typography_spectrum: 0.6120412
+name: Nemuk
